@@ -10,4 +10,16 @@
 >> heap is implemented using arrays
 >> Heap is also called as [priority queue]
 >> Heap is used to implement [heap sort,graph algorithms,dijkstra's algorithm]
+
+## Representing Heap data structure
+>> Heap is represented using arrays
+>> Root node is stored at index 0
+>> For any node at index i
+   1. Left child is at index 2*i+1
+   2. Right child is at index 2*i+2
+   3. parent child is at index floor((i-1)/2)
+>> Heap is represented using arrays because it i complete binary tree
+   and it is easy to implement using arrays
+
+
 */
