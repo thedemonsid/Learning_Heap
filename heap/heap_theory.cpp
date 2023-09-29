@@ -20,6 +20,4 @@
    3. parent child is at index floor((i-1)/2)
 >> Heap is represented using arrays because it i complete binary tree
    and it is easy to implement using arrays
-
-
 */
