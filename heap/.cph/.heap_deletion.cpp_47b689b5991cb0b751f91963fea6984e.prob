@@ -1,0 +1,1 @@
+{"name":"Local: heap_deletion","url":"c:\\Users\\siddh\\OneDrive\\Desktop\\DSA LAB\\heap\\heap_deletion.cpp","tests":[{"id":1696077411573,"input":"7\n123 23 45 12 3 40 34\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\siddh\\OneDrive\\Desktop\\DSA LAB\\heap\\heap_deletion.cpp","group":"local","local":true}
