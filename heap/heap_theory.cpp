@@ -26,4 +26,14 @@
 >> heapify is done from bottom to top
 >> heapify is done for both min_heap and max_heap
 >> heapify is done for insertion and deletion
+
+## insertion in heap
+>> insertion is done at last index
+>> after insetion heapify is done
+>> time complexity is O(logn)
+
+## deletion in heap
+>> deletion is done at root node
+>> after deletion heapify is done
+>> time complexity is O(logn)
 */
