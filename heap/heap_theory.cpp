@@ -20,4 +20,10 @@
    3. parent child is at index floor((i-1)/2)
 >> Heap is represented using arrays because it i complete binary tree
    and it is easy to implement using arrays
+
+## Heapify 
+>> Heapify is process of converting complete binary tree into heap
+>> heapify is done from bottom to top
+>> heapify is done for both min_heap and max_heap
+>> heapify is done for insertion and deletion
 */
