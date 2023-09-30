@@ -36,4 +36,16 @@
 >> deletion is done at root node
 >> after deletion heapify is done
 >> time complexity is O(logn)
+
+## heap sort
+>> heap sort is done using max_heap
+>> first we build max_heap
+>> then we swap root node with last node
+>> then we heapify the root node
+>> then we swap root node with last node-1
+>> then we heapify the root node
+>> this process is repeated until we get sorted aray
+>> time complexity is O(nlogn)
+>> space complexity is O(1)
+
 */
